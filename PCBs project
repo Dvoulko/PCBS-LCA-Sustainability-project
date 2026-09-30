@@ -1,0 +1,20 @@
+# PCB LCA Sustainability Project
+### Life Cycle Assessment (LCA) for PCBs using OpenLCA
+
+**Language Options / Επιλογές Γλώσσας:**
+*   🇬🇧 English Version (Current)
+*   🇬🇷 For the Greek version of this documentation, click [here](./README-GR.md).
+
+---
+
+## Description
+This project presents a comprehensive Life Cycle Assessment (LCA) for Printed Circuit Boards (PCBs). Utilizing **OpenLCA** software, the study evaluates and compares the environmental impacts of manufacturing processes using primary raw materials versus integrating secondary (recycled) sources. The goal is to highlight potential carbon footprint reductions and promote sustainable electronic manufacturing practices.
+
+## Software & Tools
+*   **LCA Software:** OpenLCA
+*   **Methodologies:** ReCiPe / ISO 14040/44 frameworks (adjust if you used a different one)
+*   **Data Sources:** Ecoinvent / openLCA databases
+
+## Technical Report (PDF)
+You can read the comprehensive analysis, methodology, and conclusions of the study in the official PDF report:
+[**Read the Full Technical Report Here**](./Τεχνική αναφορά PCBs.pdf)
