@@ -25,4 +25,5 @@ You can read the comprehensive analysis, methodology, and conclusions of the stu
 
 ### Τεχνική Έκθεση
 Μπορείτε να διαβάσετε την αναλυτική παρουσίαση και τα συμπεράσματα της μελέτης σε μορφή PDF:
-👉 <a href="./Τεχνική αναφορά PCBs.pdf>Διαβάστε την πλήρη τεχνική έκθεση σε PDF εδώ</a>
+👉 <a href="./Τεχνική αναφορά PCBs.pdf">Διαβάστε την πλήρη τεχνική έκθεση σε PDF εδώ</a>
+
