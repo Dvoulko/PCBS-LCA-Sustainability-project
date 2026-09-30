@@ -14,7 +14,7 @@ This project presents a comprehensive Life Cycle Assessment (LCA) for Printed Ci
 
 ### Technical Report (PDF)
 You can read the comprehensive analysis, methodology, and conclusions of the study in the official PDF report:
-👉 [**Read the Full Technical Report Here**](./Τεχνική αναφορά PCBs.pdf)
+👉 <a href="./Life Cycle Assessment for PCBs.pdf">Read The Full Technical Report Here</a>
 
 ---
 
